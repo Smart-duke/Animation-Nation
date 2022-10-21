@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Precious Longe Animate',
+    pageLink: './Art/precious-longe/animate.html',
+    imageLink: './Art/marion/longe.gif',
+    author: 'Precious Longe',
+    githubLink: 'https://github.com/Smart-duke'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
